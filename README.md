@@ -1,4 +1,3 @@
-## PHP (PDO), MYSQL and JQuery AJAX Full Project from Scratch.
+## Projek2 Sistem Todolist WP Schedule
 
-► Subscribe Us:
-https://www.youtube.com/codingwithelias?sub_confirmation=1
+► Subscribe Us: jenilutfifauzi
